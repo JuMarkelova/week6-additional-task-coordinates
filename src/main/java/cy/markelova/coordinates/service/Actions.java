@@ -1,4 +1,4 @@
-package cy.markelova.coordinates.util;
+package cy.markelova.coordinates.service;
 
 import cy.markelova.coordinates.entity.Dot;
 

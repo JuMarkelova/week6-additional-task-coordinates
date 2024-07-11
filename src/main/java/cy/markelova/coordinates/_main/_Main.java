@@ -1,7 +1,7 @@
 package cy.markelova.coordinates._main;
 
 import cy.markelova.coordinates.entity.Dot;
-import cy.markelova.coordinates.util.Actions;
+import cy.markelova.coordinates.service.Actions;
 
 import java.util.Scanner;
 
